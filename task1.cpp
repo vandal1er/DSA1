@@ -33,6 +33,8 @@ int main()
 	
 	int maxElement = findMax(array, arraySize);
 	cout << "Maximum element: " << maxElement;
+
+	cout << "\n\n\n";
 	
 	return 0;
 }
